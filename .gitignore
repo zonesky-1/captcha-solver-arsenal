@@ -1,0 +1,28 @@
+# Logs & Environment
+.env
+*.log
+*.tmp
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Node Modules
+node_modules/
+package-lock.json
+
+# Screenshots & Output Files
+*.png
+*.jpg
+*.jpeg
+solver_shots/
+nopecha_solver_shots/
+output/
+proxies.txt
+
+# OS / Editor Artifacts
+.DS_Store
+Thumbs.db

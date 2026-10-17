@@ -1,0 +1,8 @@
+# Format Proxy (1 proxy per baris):
+# socks5://user:password@ip:port
+# http://user:password@ip:port
+# socks5://ip:port
+# http://ip:port
+#
+# Contoh:
+# socks5://user123:pass456@192.168.1.100:1080

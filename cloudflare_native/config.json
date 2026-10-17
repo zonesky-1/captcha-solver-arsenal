@@ -1,0 +1,11 @@
+{
+    "host": "127.0.0.1",
+    "port": 8000,
+    "headless": true,
+    "thread": 3,
+    "page_count": 1,
+    "proxy_support": false,
+    "proxy_file": "proxies.txt",
+    "cleanup_interval_minutes": 5,
+    "debug": false
+}
